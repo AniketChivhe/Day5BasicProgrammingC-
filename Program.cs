@@ -1,5 +1,5 @@
 ﻿using System;
-public class SwapExample
+public class SwapTwoNumbers
 {
     public static void Main(string[] args)
     {
