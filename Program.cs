@@ -1,5 +1,5 @@
 ﻿using System;
-public class RecExercise15
+public class PowerOfTwo
 {
 
     public static void Main()
