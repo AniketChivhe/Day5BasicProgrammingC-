@@ -1,6 +1,6 @@
 ﻿using System;
 
-class GFG
+class HarmonicNumber
 {
 
     // Function to find N-th Harmonic Number
